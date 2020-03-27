@@ -1,15 +1,33 @@
- _______  ______    _______      ___  _______  _______  _______    _______ 
-|       ||    _ |  |       |    |   ||       ||       ||       |  |       |
-|    _  ||   | ||  |   _   |    |   ||    ___||       ||_     _|  |____   |
-|   |_| ||   |_||_ |  | |  |    |   ||   |___ |       |  |   |     ____|  |
-|    ___||    __  ||  |_|  | ___|   ||    ___||      _|  |   |    | ______|
-|   |    |   |  | ||       ||       ||   |___ |     |_   |   |    | |_____ 
-|___|    |___|  |_||_______||_______||_______||_______|  |___|    |_______|
-
+ _______  ______    __   __  _______  ______   _______         
+|   _   ||    _ |  |  |_|  ||   _   ||      | |   _   |        
+|  |_|  ||   | ||  |       ||  |_|  ||  _    ||  |_|  |        
+|       ||   |_||_ |       ||       || | |   ||       |        
+|       ||    __  ||       ||       || |_|   ||       |        
+|   _   ||   |  | || ||_|| ||   _   ||       ||   _   |        
+|__| |__||___|  |_||_|   |_||__| |__||______| |__| |__|        
+ _______  ___      _______  _______  __    _  __   __  _______ 
+|       ||   |    |       ||   _   ||  |  | ||  | |  ||       |
+|       ||   |    |    ___||  |_|  ||   |_| ||  | |  ||    _  |
+|       ||   |    |   |___ |       ||       ||  |_|  ||   |_| |
+|      _||   |___ |    ___||       ||  _    ||       ||    ___|
+|     |_ |       ||   |___ |   _   || | |   ||       ||   |    
+|_______||_______||_______||__| |__||_|  |__||_______||___|    
+ _______  ______    _______  _     _                           
+|       ||    _ |  |       || | _ | |                          
+|       ||   | ||  |    ___|| || || |                          
+|       ||   |_||_ |   |___ |       |                          
+|      _||    __  ||    ___||       |                          
+|     |_ |   |  | ||   |___ |   _   |                          
+|_______||___|  |_||_______||__| |__|       
 ===========================================================================
-Name: Brad Schmitz
-Class: CSE 487
 
+-- 
+INSTRUCTIONS:
+ Your goal is to clean off the mothership by collecting as much space junk off it as possible within
+ 90 seconds. However, you are not the only cleaner, and must collect more junk than the other cleaner(s)
+ to GAIN THAT GOLD. To collect junk, you simply have to roll over it and it will attach to you,
+ Katamari-style.
+ 
 -- 
 ASSETS:
  -3D Models:
@@ -33,12 +51,6 @@ ASSETS:
  -Fonts:
    -DeprecationPixie: dafont.com
    -Resistance: dafont.com
--- 
-INSTRUCTIONS:
- Your goal is to clean off the mothership by collecting as much space junk off it as possible within
- 90 seconds. However, you are not the only cleaner, and must collect more junk than the other cleaner(s)
- to GAIN THAT GOLD. To collect junk, you simply have to roll over it and it will attach to you,
- Katamari-style.
 --
 CONTROLS:
  -W / Up Arrow: Move forward (relative to camera)
