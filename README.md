@@ -1,11 +1,5 @@
 # Armada Cleanup Crew
 Armada Cleanup Crew is a Katamari-esque game developed using Unity. In this game, you control a sphere, which is in charge of cleaning space junk off the space armada's mothership. However, for your promotion, you have to defeat the other sphere(s) who want to also get promoted. You have 90 seconds to clean off as much junk as you can! Whoever has the most junk after this time is declared winner!
-
-INSTRUCTIONS:
- Your goal is to clean off the mothership by collecting as much space junk off it as possible within
- 90 seconds. However, you are not the only cleaner, and must collect more junk than the other cleaner(s)
- to GAIN THAT GOLD. To collect junk, you simply have to roll over it and it will attach to you,
- Katamari-style.
  
 ## Assets
 * 3D Models:
